@@ -1,1 +1,0 @@
-# Rouble\n\nDictionary

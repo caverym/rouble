@@ -1,0 +1,11 @@
+pkgbase = rouble-git
+	pkgdesc = Rouble dictionary
+	pkgver = 0.0.1
+	pkgrel = 1
+	url = https://github.com/caverym/rouble
+	arch = any
+	depends = python
+	source = git+https://github.com/caverym/rouble.git
+	sha256sums = SKIP
+
+pkgname = rouble-git
